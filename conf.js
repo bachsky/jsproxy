@@ -17,7 +17,7 @@ jsproxy_config({
       label: '',
       hidden: true,
       lines: {
-        'b.jsproxy.workers.dev': 1,
+  //      'b.jsproxy.workers.dev': 1,
       }
     }
   },
